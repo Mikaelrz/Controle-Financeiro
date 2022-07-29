@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.View", "ControleFinanceiro.View\ControleFinanceiro.View.csproj", "{DFB2F471-A556-4512-9383-9750D6C0A77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Model", "ControleFinanceiro.Model\ControleFinanceiro.Model.csproj", "{784A398C-48C4-41AE-AED8-33EE2616B401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB2F471-A556-4512-9383-9750D6C0A77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB2F471-A556-4512-9383-9750D6C0A77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB2F471-A556-4512-9383-9750D6C0A77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB2F471-A556-4512-9383-9750D6C0A77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784A398C-48C4-41AE-AED8-33EE2616B401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784A398C-48C4-41AE-AED8-33EE2616B401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784A398C-48C4-41AE-AED8-33EE2616B401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784A398C-48C4-41AE-AED8-33EE2616B401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1480E5FB-C142-46A3-8054-6E94FD02A092}
+	EndGlobalSection
+EndGlobal
